@@ -7,17 +7,6 @@ Radio App based on flutter with AI Voice assistant Alan.
 
 <table>
 
-  <tr>
-    <td valign="top"><img src="/ss/1.png" ></td>
- 
- 
- </tr>
- 
-  <tr>
- <td valign="top"><img src="/ss/2.png"  ></td>
- 
- </tr>
- 
  <tr>
      <td valign="top"><img src="/ss/3.png" ></td>
  </tr>
